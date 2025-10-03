@@ -29,3 +29,9 @@ Revista 421
 
 <img width="102" height="187" alt="rev6" src="https://github.com/user-attachments/assets/4c272ad5-3046-4d49-b125-9aedf7bb3d35" />
 
+[Revista 421 #7 (septiembre 2025).pdf](https://github.com/user-attachments/files/22683954/Revista.421.7.septiembre.2025.pdf)
+
+<img width="102" height="187" alt="rev6" src="https://github.com/user-attachments/assets/b7fe7320-fbcb-4cdd-b057-4e71ddcbc032" />
+
+
+
