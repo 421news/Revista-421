@@ -35,7 +35,7 @@ Revista 421
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/b7fe7320-fbcb-4cdd-b057-4e71ddcbc032" />
 
 
-[Revista 421 #8 (octubre 2025).pdf](https://github.com/user-attachments/files/23191462/Revista.421.08.octubre.2025.pdf)
+[Revista 421 #8 octubre 2025.pdf](https://github.com/user-attachments/files/23191727/Revista.421.8.octubre.2025.pdf)
 
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/86ce69a0-23e7-43ea-9386-690d6da3fdad" />
 
