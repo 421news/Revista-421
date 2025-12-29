@@ -45,9 +45,10 @@ Revista 421
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/12751b8e-0261-4a55-b3af-cf9e1e58f8c1" />
 
 
-[Revista 421 #010 (diciembre 2025).pdf](https://github.com/user-attachments/files/24372107/Revista.421.10_diciembre.2025.pdf)
+[Revista 421 #010 (diciembre 2025).pdf](https://github.com/user-attachments/files/24372507/Revista.421.010.diciembre.2025.pdf)
 
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/e90505a9-6855-44aa-9994-5e96a592c38b" />
+
 
 
 
