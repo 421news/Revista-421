@@ -1,51 +1,51 @@
 Revista 421
 
-[Revista 421 #1 (noviembre 2024).pdf](https://github.com/user-attachments/files/22349135/Revista.421.1.noviembre.2024.pdf)
+[Revista 421 #01 (noviembre 2024).pdf](https://github.com/user-attachments/files/22349135/Revista.421.01.noviembre.2024.pdf)
 
 <img width="132" height="187" alt="REV1" src="https://github.com/user-attachments/assets/ddf470c1-b4fe-4abc-a7e3-695d170a9649" />
 
 
-[Revista 421 #2 (feb 2025).pdf](https://github.com/user-attachments/files/22349137/Revista.421.2.feb.2025.pdf)
+[Revista 421 #02 (feb 2025).pdf](https://github.com/user-attachments/files/22349137/Revista.421.02.feb.2025.pdf)
 
 <img width="132" height="187" alt="rev2" src="https://github.com/user-attachments/assets/54e97dfa-1bb2-446b-866a-612664c89b90" />
 
 
-[Revista 421 #3 (mayo 2025).pdf](https://github.com/user-attachments/files/22349190/Revista.421.3.mayo.2025.pdf)
+[Revista 421 #03 (mayo 2025).pdf](https://github.com/user-attachments/files/22349190/Revista.421.03.mayo.2025.pdf)
 
 <img width="132" height="187" alt="rev3" src="https://github.com/user-attachments/assets/c3cb9ffc-e8d6-4760-a7eb-f5933fe7c4fa" />
 
 
-[Revista 421 #4 (junio 2025).pdf](https://github.com/user-attachments/files/22349170/Revista.421.4.junio.2025.pdf)
+[Revista 421 #04 (junio 2025).pdf](https://github.com/user-attachments/files/22349170/Revista.421.04.junio.2025.pdf)
 
 <img width="132" height="187" alt="rev4" src="https://github.com/user-attachments/assets/a85cd3a5-bfd9-426a-87f5-7e65aa51d971" />
 
 
-[Revista 421 #5 (julio 2025).pdf](https://github.com/user-attachments/files/22349175/Revista.421.5.julio.2025.pdf)
+[Revista 421 #05 (julio 2025).pdf](https://github.com/user-attachments/files/22349175/Revista.421.05.julio.2025.pdf)
 
 <img width="132" height="187" alt="rev5" src="https://github.com/user-attachments/assets/468d235b-74d6-433d-bc5a-46b3847de2c9" />
 
 
-[Revista 421 #6 (agosto 2025).pdf](https://github.com/user-attachments/files/22349182/Revista.421.6.agosto.2025.pdf)
+[Revista 421 #06 (agosto 2025).pdf](https://github.com/user-attachments/files/22349182/Revista.421.06.agosto.2025.pdf)
 
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/4c272ad5-3046-4d49-b125-9aedf7bb3d35" />
 
 
-[Revista 421 #7 (septiembre 2025).pdf](https://github.com/user-attachments/files/22683954/Revista.421.7.septiembre.2025.pdf)
+[Revista 421 #07 (septiembre 2025).pdf](https://github.com/user-attachments/files/22683954/Revista.421.07.septiembre.2025.pdf)
 
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/b7fe7320-fbcb-4cdd-b057-4e71ddcbc032" />
 
 
-[Revista 421 #8 (octubre 2025).pdf](https://github.com/user-attachments/files/23191727/Revista.421.8.octubre.2025.pdf)
+[Revista 421 #08 (octubre 2025).pdf](https://github.com/user-attachments/files/23191727/Revista.421.08.octubre.2025.pdf)
 
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/86ce69a0-23e7-43ea-9386-690d6da3fdad" />
 
 
-[Revista 421 #9 (noviembre 2025).pdf](https://github.com/user-attachments/files/23906631/Revista.421.9.noviembre.2025.pdf)
+[Revista 421 #09 (noviembre 2025).pdf](https://github.com/user-attachments/files/23906631/Revista.421.09.noviembre.2025.pdf)
 
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/12751b8e-0261-4a55-b3af-cf9e1e58f8c1" />
 
 
-[Revista 421 #10 (diciembre 2025).pdf](https://github.com/user-attachments/files/24372107/Revista.421.10_diciembre.2025.pdf)
+[Revista 421 #010 (diciembre 2025).pdf](https://github.com/user-attachments/files/24372107/Revista.421.010.diciembre.2025.pdf)
 
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/e90505a9-6855-44aa-9994-5e96a592c38b" />
 
