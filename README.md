@@ -50,8 +50,10 @@ Revista 421
 <img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/e90505a9-6855-44aa-9994-5e96a592c38b" />
 
 
+[Revista 421 #11 (enero 2026).pdf](https://github.com/user-attachments/files/24986955/Revista.421.11.enero.2026.pdf)
 
 
+<img width="132" height="187" alt="rev6" src="https://github.com/user-attachments/assets/6b6613a3-293a-44ac-91e4-b8c3ff233517" />
 
 
 
